@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: \"Submit\",\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t\treturn this.myVar1;\n\t},\n\tmyFun2: () => {\n\t\t//write code here\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "Submit"
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "61c580d685c0bd4ccf7d1716_61c58ced85c0bd4ccf7d1726"
+}
